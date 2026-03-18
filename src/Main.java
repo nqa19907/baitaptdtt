@@ -49,7 +49,3 @@ public class Main{
 
     }
 }
-// 3
-// DR 1 Drone-X
-// FR 2 Fish-A
-// AR 3 Amphibious-Z
